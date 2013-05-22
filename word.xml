@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<text>
+		<word>
+			<value>moby</value>
+			<syllables>
+				<syllable>MO</syllable>
+				<syllable>BY</syllable>
+			</syllables>
+			<vowels>
+				<vowel pos="2">O</vowel>
+				<vowel pos="4">Y</vowel>
+			</vowels>
+		</word>
+		<word>
+			<value>dick</value>
+			<syllables>
+				<syllable>DICK</syllable>
+			</syllables>
+			<vowels>
+				<vowel pos="2">I</vowel>
+			</vowels>
+		</word>
+		<word>
+			<value>or</value>
+			<syllables>
+				<syllable>OR</syllable>
+			</syllables>
+			<vowels>
+				<vowel pos="1">O</vowel>
+			</vowels>
+		</word>
+		<word>
+			<value>the</value>
+			<syllables>
+				<syllable>THE</syllable>
+			</syllables>
+			<vowels>
+				<vowel pos="3">E</vowel>
+			</vowels>
+		</word>
+		<word>
+			<value>whale</value>
+			<syllables>
+				<syllable>WHA</syllable>
+				<syllable>LE</syllable>
+			</syllables>
+			<vowels>
+				<vowel pos="3">A</vowel>
+				<vowel pos="5">E</vowel>
+			</vowels>
+		</word>
+	</text>
